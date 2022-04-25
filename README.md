@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/max-dahlbom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-dahlbom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/max-dahlbom-488778209/?_l=sv_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max-dahlbom-488778209/?_l=sv_se" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
